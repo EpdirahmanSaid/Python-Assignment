@@ -1,7 +1,5 @@
 """Name , Age , Gender = "Updallahi" , 22 , "Male"
-print(Name)
-print(Age)
-print (Gender)"""
+print(Name);print(Age);print (Gender)"""
 
 Name , Age , Gender = "Updallahi" , 22 , "Male"
 print(Name);print(Age);print(Gender)
