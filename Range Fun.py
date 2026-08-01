@@ -1,0 +1,12 @@
+print (list(range(10))) , print(list(range(20))) , print(list(range(30))) , print(list(range(40))) , print(list(range(50))) , print(list(range(60))) , print(list(range(70))) , print(list(range(80))) , print(list(range(90))) , print(list(range(100)))
+print(*range(10))
+print(*range(20))
+print(*range(30))
+print(*range(40))
+print(*range(50))
+print(*range(60))
+print(*range(70))
+print(*range(80))
+print(*range(90))
+print(*range(100))
+
